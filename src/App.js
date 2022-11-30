@@ -12,7 +12,7 @@ import Navbar from "./component/Navbar";
 function App() {
   return (
     <>
-    <h1>My Name id  Neelu</h1>
+    <h1>My Name id  deepu</h1>
       <BrowserRouter>
         <Navbar />
         <Routes>
